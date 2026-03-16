@@ -1,4 +1,4 @@
-![Gemini Meme 示例](memes/kanban.png)
+<img src="memes/kanban.png" width="256" alt="kanban">
 
 # Gemini Q-Version Memes
 

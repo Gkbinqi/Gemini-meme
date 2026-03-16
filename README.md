@@ -1,14 +1,14 @@
 # Gemini Q-Version Memes
 
-本项目包含一系列以 Google Gemini 为原型设计的 Q 版拟人化 meme 图像。所有图像均使用 AI 图像生成模型 Nano Banana 制作。
+本仓库包含一系列以 Google Gemini 为原型设计的 Q 版拟人化 meme 图像。所有图像均使用 AI 图像生成模型 Nano Banana 制作。
 
 建立本仓库的目的是为了娱乐和开源分享。除了成品的 meme 图片，本项目也开源了生成这些图片所使用的完整提示词（Prompts）和基础模板（Templates）。
 
 ## 📁 目录说明
 
 * `/memes`: 最终生成的成品 meme 图片，可直接下载使用。
-* `/templates`: 用于生成过程的基础图片或构图参考。
-* `/prompts`: 包含角色设定的核心 Instruction 以及生成具体图片的 Prompts 记录。
+* `/templates`: 用于生成过程的参考图片和 Gem 设定 instructions。
+* `/prompts`: 包含生成具体图片的 Prompts 示例。
 
 ## 🛠️ 如何复现或二次创作
 
@@ -21,7 +21,7 @@
 **请在下载或使用本项目内容前仔细阅读以下声明。**
 
 1.  **图像版权弃权 (Image License):**
-    本仓库中 `/memes` 和 `/templates` 目录下的所有图像均由 AI 完全生成。我个人不对这些纯 AI 生成的图像主张任何形式的版权，并以 **[CC0 1.0 Universal (Public Domain Dedication)](LICENSE)** 释出。您可以自由下载、传播、修改甚至用于商业用途，而无需署名或征得我的同意。
+    本仓库中 `/memes` 和 `/templates` 目录下的所有图像均由 AI 完全生成。我个人不对这些纯 AI 生成的图像主张任何形式的版权，并以 **[CC0 1.0 Universal (Public Domain Dedication)](LICENSE)** 释出.
 
 2.  **商标与知识产权免责声明 (Trademark Disclaimer) - 核心约束:**
     本项目是一个纯粹的非官方（Unofficial）、粉丝自制（Fan-made）的娱乐项目。图像中角色的设计灵感来源于 Google Gemini，相关的“四角星”标志、色彩搭配及品牌概念等知识产权/商标权均归属于 **Google LLC**。

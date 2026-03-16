@@ -1,3 +1,5 @@
+![Gemini Meme 示例](memes/kanban.png)
+
 # Gemini Q-Version Memes
 
 本仓库包含一系列以 Google Gemini 为原型设计的 Q 版拟人化 meme 图像。所有图像均使用 AI 图像生成模型 Nano Banana 制作。
